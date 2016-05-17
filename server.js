@@ -43,7 +43,7 @@ router.use(function(req, res, next){
 
 // ruta raiz
 router.get('/', function (req, res){
-    var str = "AriAgroApi VRS: " + pjson.version; //
+    var str = "AriAgroCentral VRS: " + pjson.version; //
     res.end(str);
 });
 
