@@ -1,6 +1,6 @@
 {
   "name": "AriAgroCentral",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "API de configuración para la APP AriAGRO",
   "main": "server.js",
   "author": {
